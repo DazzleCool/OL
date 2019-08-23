@@ -1,0 +1,56 @@
+{
+  "": "en_US.lang - English localization file >",
+  "_comment": "Energy",
+  "block.overloaded.creative_generator": "创造模式发电机",
+  "item.overloaded.energy_shield": "电力盾牌",
+
+  "_comment": "Utility",
+  "block.overloaded.almost_infinite_capacitor": "接近无限的电容库",
+  "block.overloaded.almost_infinite_barrel": "接近无限的物品单元",
+  "block.overloaded.almost_infinite_tank": "接近无限的流体单元",
+  "block.overloaded.true_infinite_capacitor": "无尽电容",
+  "block.overloaded.true_infinite_barrel": "无尽物品单元",
+  "block.overloaded.true_infinite_tank": "无尽流体单元",
+  "block.overloaded.grill": "Grill",
+  "block.overloaded.infinite_water_source": "无尽水源",
+  "block.overloaded.energy_extractor": "能量提取器",
+  "block.overloaded.nether_star_block": "下界之星块",
+  "block.overloaded.player_interface": "玩家接口",
+  "block.overloaded.item_interface": "物品接口",
+  "block.overloaded.instant_furnace": "瞬熔熔炉",
+
+  "_comment": "Cores",
+  "item.overloaded.energy_core": "能源核心",
+  "item.overloaded.fluid_core": "流体核心",
+  "item.overloaded.item_core": "物品核心",
+
+  "_comment": "Multi",
+  "item.overloaded.multi_tool": "多功能工具",
+  "item.overloaded.multi_helmet": "多功能头盔",
+  "item.overloaded.multi_boots": "多功能靴子",
+  "item.overloaded.multi_chestplate": "多功能胸甲",
+  "item.overloaded.multi_leggings": "多功能护腿",
+  "item.overloaded.settings_editor": "多功能护甲设置编辑器",
+
+  "_comment": "Weapons",
+  "item.overloaded.ray_gun": "射线枪",
+  "item.overloaded.railgun": "超电磁炮",
+
+  "_comment": "HyperNodes",
+  "block.overloaded.hyper_energy_sender": "急速能量发射器",
+  "block.overloaded.hyper_energy_receiver": "急速能量接收器",
+  "block.overloaded.hyper_item_sender": "急速物品发射器",
+  "block.overloaded.hyper_item_receiver": "急速物品接收器",
+  "block.overloaded.hyper_fluid_sender": "急速流体发送器",
+  "block.overloaded.hyper_fluid_receiver": "急速流体接收器",
+  "item.overloaded.linking_card": "急速能量传输装置设置卡",
+
+  "_comment": "Creative Tabs",
+  "itemGroup.Overloaded_Compressed": "Overloaded|压缩方块",
+  "itemGroup.Overloaded_Tech": "Overloaded|科技",
+
+  "_comment": "Key Binds",
+  "overloaded.cat.key": "Overloaded",
+  "overloaded.key.noclip": "Toggle No Clip",
+  "overloaded.key.railgun100x": "Railgun 100x Modifier"
+}
